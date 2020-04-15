@@ -1,0 +1,5 @@
+tier,spend by channel
+1,"{'social': 50, 'organic_search': 0, 'referral': 50, 'email': 50, 'paid_search': 50, 'display': 50, 'direct': 0}"
+2,"{'social': 100, 'organic_search': 0, 'referral': 100, 'email': 100, 'paid_search': 100, 'display': 100, 'direct': 0}"
+3,"{'social': 150, 'organic_search': 0, 'referral': 150, 'email': 150, 'paid_search': 150, 'display': 150, 'direct': 0}"
+total,"{'social': 300, 'organic_search': 0, 'referral': 300, 'email': 300, 'paid_search': 300, 'display': 300, 'direct': 0}"
